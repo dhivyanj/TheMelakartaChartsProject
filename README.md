@@ -2,4 +2,12 @@
 
 # The Melakarta Charts Project
 
-Library of Melakarta Ragas
+Aiming to be a **Library for Melakarta Ragas**
+
+## Currently Uploaded as CSV Tables:
+
+* Kannada (has errors)
+
+## PDF Charts:
+
+* Kannada (has errors)
